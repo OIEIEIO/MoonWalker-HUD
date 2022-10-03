@@ -1,3 +1,10 @@
+MoonWalker-Hud repo is a collection of Jupyter notebook code snippets/blocks/programs developed during the NASA and CSA Space Apps challenge. 
+
+Time between Oct 1-2 2022
+
+
+
+
 MW-HUD is an AI learning interface
 
 if you are going to be a space walker, you will likely need a helmet
