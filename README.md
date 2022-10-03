@@ -68,3 +68,6 @@ What can your solution do for people, the world, and beyond? MW-HUD up! mode, dr
 
 Team MoonWalker-HUD @oieieio @JustRaef
 
+special thanks for great insight and help from all and a few fun interactions
+
+
