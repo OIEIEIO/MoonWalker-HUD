@@ -10,6 +10,14 @@ Not withstanding the excitement and planning for some teams, others with a passi
 
 The arena is set the night before and opens in a flurry of discord servers and channels. Hundreds of participants show up, maybe thousands, who knows? 
 
+Arena: I mean wow, high school students, university student, proffesors, researches, inventors, dreamers, judges, mentors, project lead to help, SME. CSA, NASA, experts, novices, well the list goes on. 
+
+I think all of us get involved for a variety of reasons and its just fantastic to see. Its a heady mix and very surreal.
+
+``JugglerDad: A lot of people get involved just because they care – they have a passion for the moon and they have a desire to help make it happen and share the experience with others.
+
+Awa: As I said earlier – to help!``
+
 Teams are scrambling to get their footing in the competition, with some having to start from scratch due to no-shows or last minute dropouts. 
 
 MW-HUD is an AI learning interface
