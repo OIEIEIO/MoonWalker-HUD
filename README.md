@@ -24,6 +24,7 @@ Day two has some serious traction when mates align and we begin to understand al
 
 I think all of us here today can attest to the fact that, we would not be here without the unwavering dedication, commitment and support from family, friends, and the entire organzing team.
 ====
+IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below 
 
 MW-HUD is an AI learning interface
 
@@ -34,20 +35,13 @@ MoonWalker Heads Up Display is a text and visual search tool for your helmet aka
 
 A software addon to your HUD package. Runs on Jupyter notebook and can be used in a modern python runtime environment. Scalable to the AI and beyond.
 
-
-
 Welcome to the instruction of how an AI assisted HUD is helping future moonwalkers visualize data extracted from FGS and NIRISS sensors. You can now also add deep eye knowledge search commands including access to scanning through CSA public documents and NASA ntrs sti (space apps) documents.
 
-
-
 ex: MW-HUD up! access CSA deep eye network, search for a exoplanet Keppler22b, show me where is, display images from NIRISS, filter select, search for water... "98%" chance of water at this site"
-
-
 
 Your HUD package can also perform task using NLP functions to extract human readable subject matter content using qualified human readable search strings processed through filters usable to a future moonwalker.
 
 Since gaming is part of youth these days - could easily be gamified as an experience to inspire for the next generation of space walkers or to entertain folks of all ages.
-
 
 
 Take a glimpse at what the future holds for Spacewalkers.
