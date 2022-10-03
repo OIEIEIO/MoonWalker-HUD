@@ -27,6 +27,7 @@ I think all of us here today can attest to the fact that, we would not be here w
 IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below
 
 ! Education comes in many forms, and gaming is definitely one of the most popular and effective ways to learn these days. Let's see if we can come up with some ideas on how to gamify the MW-HUD interface to make it more engaging for users.
+
 Take a glimpse at what the future holds for Spacewalkers.
 
 MW-HUD is an AI learning interface
