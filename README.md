@@ -2,11 +2,15 @@ MoonWalker-Hud repo is a collection of Jupyter notebook code snippets/blocks/pro
 
 Time between Oct 1-2 2022
 
-The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet
+The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet.
 
-A variety of age groups, sincerely participating from all parts of the world
+A variety of age groups, sincerely participating from all parts of the world.
 
-Not withstanding the excitement and planning for some teams, others with a passion for SPACE also showed up with the intent to earn and learn their way to the next level
+Not withstanding the excitement and planning for some teams, others with a passion for SPACE also showed up with the intent to earn and learn their way to the next level.
+
+The arena is set the night before and opens in a flurry of discord servers and channels. Hundreds of participants show up, maybe thousands, who knows? 
+
+Teams are scrambling to get their footing in the competition, with some having to start from scratch due to no-shows or last minute dropouts. 
 
 MW-HUD is an AI learning interface
 
