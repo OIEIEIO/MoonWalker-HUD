@@ -80,3 +80,9 @@ Judges
 SME
 
 Thankyou for a great weekend
+
+if we had more time
+
+fun, great, and special attempts were performed to create and video for the challenge presentaion 
+
+https://drive.google.com/file/d/16rC33qmwjxeWdXys767rsysBfPFYdYBb/view?usp=sharing
