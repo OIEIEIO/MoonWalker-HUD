@@ -6,7 +6,7 @@ The event was a first time experience and puts you in direct contact with some o
 
 A variety of age groups, sincerely participating from all parts of the world
 
-Not withstanding the excitement and planning for some teams, others with a passion for SPACE also showed up
+Not withstanding the excitement and planning for some teams, others with a passion for SPACE also showed up with the intent to earn and learn their way to the next level
 
 MW-HUD is an AI learning interface
 
