@@ -24,13 +24,27 @@ Day two has some serious traction when mates align and we begin to understand al
 
 I think all of us here today can attest to the fact that, we would not be here without the unwavering dedication, commitment and support from family, friends, and the entire organzing team.
 ====
-IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below 
+IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below
+
+! Education comes in many forms, and gaming is definitely one of the most popular and effective ways to learn these days. Let's see if we can come up with some ideas on how to gamify the MW-HUD interface to make it more engaging for users.
+Take a glimpse at what the future holds for Spacewalkers.
+
+MW-HUD is an AI learning interface
+for future space walkers
+currently helping visual data extracted from FGS and NIRISS sensors 
+atm scanning through CSA public documents and NASA ntrs sti (space apps) documents
+atm also perform task using NLP functions to extract human readable subject matter content 
+using qualified human readable subject matter search strings processed through filters usable to a future moonwalker
+but it can not count galaxies yet ...smiles
+and since gaming is part of youth these days - could easily be gamified as an experience to inspire and engage
+And that is what we are all here for today - to explore and discuss how we can gamify the experience to inspire youth - while they learn
 
 MW-HUD is an AI learning interface
 
 if you are going to be a space walker, you will likely need a helmet
 
 We have a wonderful new invention to share with you.
+
 MoonWalker Heads Up Display is a text and visual search tool for your helmet aka MW-HUD
 
 A software addon to your HUD package. Runs on Jupyter notebook and can be used in a modern python runtime environment. Scalable to the AI and beyond.
@@ -42,9 +56,6 @@ ex: MW-HUD up! access CSA deep eye network, search for a exoplanet Keppler22b, s
 Your HUD package can also perform task using NLP functions to extract human readable subject matter content using qualified human readable search strings processed through filters usable to a future moonwalker.
 
 Since gaming is part of youth these days - could easily be gamified as an experience to inspire for the next generation of space walkers or to entertain folks of all ages.
-
-
-Take a glimpse at what the future holds for Spacewalkers.
 
 What will your idea change? MW-HUD up! mode, dream space
 
