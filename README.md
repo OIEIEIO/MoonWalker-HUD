@@ -65,3 +65,6 @@ What will your idea change? MW-HUD up! mode, dream space
 Captivate your audience with what it could be? mode, stop, access CSA deep eye, show current FGS target, name of galaxy, search NIRISS images for galaxy ? run image filter protocol omega_003, thank you
 
 What can your solution do for people, the world, and beyond? MW-HUD up! mode, dream space
+
+Team MoonWalker-HUD @oieieio @JustRaef
+
