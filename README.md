@@ -24,7 +24,7 @@ Day two has some serious traction when mates align and we begin to understand al
 
 I think all of us here today can attest to the fact that, we would not be here without the unwavering dedication, commitment and support from family, friends, and the entire organzing team.
 ====
-IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below
+IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below and would like to see this develop as an education tool, portal.
 
 ! Education comes in many forms, and gaming is definitely one of the most popular and effective ways to learn these days. Let's see if we can come up with some ideas on how to gamify the MW-HUD interface to make it more engaging for users.
 
@@ -70,4 +70,13 @@ Team MoonWalker-HUD @oieieio @JustRaef
 
 special thanks for great insight and help from all and a few fun interactions
 
+Ottawa group Space Apps
+Hamilton group space apps
+CSA
+NASA
+Mentors
+Leads
+Judges
+SME
 
+Thankyou for a great weekend
