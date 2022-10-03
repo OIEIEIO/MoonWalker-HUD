@@ -20,6 +20,11 @@ Awa: As I said earlier – to help!``
 
 Teams are scrambling to get their footing in the competition, with some having to start from scratch due to no-shows or last minute dropouts. 
 
+Day two has some serious traction when mates align and we begin to understand all the aspects of what each team participant and member brings to the table the needed skills which are the piece parts of success in the challenge. You do get to appreciate all of the volunteer support provided by many through their knowledge and expertise, and their goal is to continually make all information more easily accessible, to identify and educate via as many routes as possible. During the event organizers develop and improve educational resources and infrastructure as a group, in the form of mentorship and continual education 0as we develop and progress into the future.
+
+I think all of us here today can attest to the fact that, we would not be here without the unwavering dedication, commitment and support from family, friends, and the entire organzing team.
+====
+
 MW-HUD is an AI learning interface
 
 if you are going to be a space walker, you will likely need a helmet
