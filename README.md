@@ -41,6 +41,8 @@ And that is what we are all here for today - to explore and discuss how we can g
 
 MW-HUD is an AI learning interface
 
+the idea : to inspire future space walkers with an AI assisted HUD
+
 if you are going to be a space walker, you will likely need a helmet
 
 We have a wonderful new invention to share with you.
