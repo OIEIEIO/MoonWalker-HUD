@@ -4,6 +4,8 @@ Time between Oct 1-2 2022
 
 The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet
 
+A variety of age groups, sincerely participating from all parts of the world
+
 MW-HUD is an AI learning interface
 
 if you are going to be a space walker, you will likely need a helmet
