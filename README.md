@@ -6,6 +6,8 @@ The event was a first time experience and puts you in direct contact with some o
 
 A variety of age groups, sincerely participating from all parts of the world
 
+Not withstanding the excitement and planning for some teams, others with a passion for SPACE also showed up
+
 MW-HUD is an AI learning interface
 
 if you are going to be a space walker, you will likely need a helmet
