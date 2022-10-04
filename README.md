@@ -16,7 +16,7 @@ Efforts towards 2 challenges were made:
 
 One of Canada's contributions to the James Webb Space Telescope.
 
-``` FRS - The Fine Guidance Sensor (FGS) ```
+``` FGS - The Fine Guidance Sensor (FGS) ```
 
 Canada's stellar navigator on the James Webb Space Telescope - Infographic
 
