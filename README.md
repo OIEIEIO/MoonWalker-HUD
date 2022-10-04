@@ -2,6 +2,39 @@ MoonWalker-Hud repo is a collection of Jupyter notebook code snippets/blocks/pro
 
 Time between Oct 1-2 2022
 
+Efforts towards 2 challenges were made: 
+
+1. Exploring the distant universe with James Webb Space Telescope | CSA |
+2. Can AI Preserve OUR science LEGACY? | NASA |
+
+
+Canada's stellar navigator on the James Webb Space Telescope - Infographic
+
+One of Canada's contributions to the James Webb Space Telescope.
+
+
+# FRS - The Fine Guidance Sensor (FGS)
+
+Canada's stellar navigator on the James Webb Space Telescope - Infographic
+
+The Fine Guidance Sensor (FGS) is the most sophisticated guidance sensor of any telescope ever built. It locks on to bright stars in deep space to keep Webb's images sharp.
+
+What does the Fine Guidance Sensor do?
+
+Identifies and locks on to preselected guide stars
+Tracks objects in our solar system with high precision
+Keeps Webb's gaze perfectly aligned
+The FGS consists of two identical cameras that are critical to Webb's ability to "see." The FGS can select a star from a catalogue of nearly one billion guide stars. These known cosmic reference points enable Webb to calculate its position in space.
+
+A watchful guide
+
+The FGS remains active during all of Webb's observations. It provides Webb's stability system with extremely precise data 16 times per second.
+
+The Canadian-made sensor is so sensitive that it can detect a tiny angular displacement equivalent to the thickness of a human hair as seen from one kilometre away. That's like spotting someone blink in Toronto, all the way from Montreal!
+
+Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instruments are functionally independent of each other.
+ 
+
 The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet.
 
 A variety of age groups, sincerely participating from all parts of the world.
