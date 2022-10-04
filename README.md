@@ -2,23 +2,27 @@
 # MW-HUD up! mode, tell the story
 ---
 
-MW-HUD is an AI learning interface
-
-the idea : to inspire future space walkers with an AI (organized intellegent) assisted HUD (Heads Up Display) aka helmet visor overlay
-
 MoonWalker-Hud repo is a collection of Jupyter notebook code snippets/blocks/programs developed during the NASA and CSA Space Apps challenge. 
 
 Time between Oct 1-2 2022
+
 
 Efforts towards 2 challenges were made: 
 
 1. Exploring the distant universe with James Webb Space Telescope | CSA |
 2. Can AI Preserve OUR science LEGACY? | NASA |
 
+--------------
+
+With the excitment of access to new opensource infromation (awesome) much of which is very complex and difficult to understand for most we try to put together some ideas and code that may help current and future space walkers to get inspired to earn and learn deeper understanding. The DATA is available now!
+
+``` standy for links...working on it ```
+
+the idea : to inspire future space walkers with an AI (organized intelligence) assisted HUD (Heads Up Display) aka helmet visor overlay
+
 ---
+
 The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet.
-
-
 
 Not withstanding the excitement and planning for some teams, others with a passion for SPACE also showed up with the intent to earn and learn their way to the next level.
 
@@ -34,9 +38,11 @@ I think all of us get involved for a variety of reasons and its just fantastic t
 
 Awa: As I said earlier – to help!``
 
+Day one: 
 Teams are scrambling to get their footing in the competition, with some having to start from scratch due to no-shows or last minute dropouts. 
 
-Day two has some serious traction when mates align and we begin to understand all the aspects of what each team participant and member brings to the table the needed skills which are the piece parts of success in the challenge. You do get to appreciate all of the volunteer support provided by many through their knowledge and expertise, and their goal is to continually make all information more easily accessible, to identify and educate via as many routes as possible. During the event organizers develop and improve educational resources and infrastructure as a group, in the form of mentorship and continual education as we develop and progress into the future.
+Day two:
+has some serious traction when mates align and we begin to understand all the aspects of what each team participant and member brings to the table the needed skills which are the piece parts of success in the challenge. You do get to appreciate all of the volunteer support provided by many through their knowledge and expertise, and their goal is to continually make all information more easily accessible, to identify and educate via as many routes as possible. During the event organizers develop and improve educational resources and infrastructure as a group, in the form of mentorship and continual education as we develop and progress into the future.
 
 ### I think all of us here today can attest to the fact that, we would not be here without the unwavering dedication, commitment and support from family, friends, and the entire organzing team.
 
