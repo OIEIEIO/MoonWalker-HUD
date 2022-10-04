@@ -154,4 +154,6 @@ fun, great, and special attempts were performed to create a video for the challe
 
 https://drive.google.com/file/d/16rC33qmwjxeWdXys767rsysBfPFYdYBb/view?usp=sharing
 
-update - the story does not end here - stay tuned on the repo if intreseted - it will start to share some amazing images MW-HUD up!
+update - the story does not end here - stay tuned on the repo if intreseted - it will start to share some amazing images 
+
+```MW-HUD up! mode, share...```
