@@ -87,7 +87,7 @@ Team MoonWalker-HUD @oieieio @JustRaef
 
 ---
 
-IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below and would like to see this develop as an education tool, portal.
+IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD software package and would like to see this develop as an education tool, portal.
 
 ! Education comes in many forms, and gaming is definitely one of the most popular and effective ways to learn these days. Let's see if we can come up with some ideas on how to gamify the MW-HUD interface to make it more engaging for users.
 
