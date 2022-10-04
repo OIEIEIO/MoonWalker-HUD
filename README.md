@@ -135,6 +135,8 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 
 ![](https://www.asc-csa.gc.ca/images/recherche/hi-res/f03d998d-0748-40aa-8d11-65c9d7410f05.jpg)
 
+---
+
 
 ### What will your idea change? 
 
@@ -147,6 +149,8 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 ### What can your solution do for people, the world, and beyond?
 
 ```MW-HUD up! mode, dream space```
+
+---
 
 if we had more time
 
