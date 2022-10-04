@@ -1,3 +1,5 @@
+# MW-HUD up! mode, tell the story
+
 MoonWalker-Hud repo is a collection of Jupyter notebook code snippets/blocks/programs developed during the NASA and CSA Space Apps challenge. 
 
 Time between Oct 1-2 2022
@@ -7,11 +9,7 @@ Efforts towards 2 challenges were made:
 1. Exploring the distant universe with James Webb Space Telescope | CSA |
 2. Can AI Preserve OUR science LEGACY? | NASA |
 
-
-Canada's stellar navigator on the James Webb Space Telescope - Infographic
-
 One of Canada's contributions to the James Webb Space Telescope.
-
 
 # FRS - The Fine Guidance Sensor (FGS)
 
