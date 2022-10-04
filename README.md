@@ -1,6 +1,10 @@
 ---
 # MW-HUD up! mode, tell the story
 ---
+
+MW-HUD is an AI learning interface
+
+the idea : to inspire future space walkers with an AI(organized intellegent  assisted HUD 
 MoonWalker-Hud repo is a collection of Jupyter notebook code snippets/blocks/programs developed during the NASA and CSA Space Apps challenge. 
 
 Time between Oct 1-2 2022
@@ -43,6 +47,7 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 
 ![](https://www.asc-csa.gc.ca/images/recherche/hi-res/f03d998d-0748-40aa-8d11-65c9d7410f05.jpg)
 
+![](https://www.asc-csa.gc.ca/images/blogue/2022/2022-06-16-modes-observation-niriss-spectroscopie-eng.jpg)
 ---
 
 The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet.
