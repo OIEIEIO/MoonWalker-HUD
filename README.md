@@ -41,6 +41,8 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 
 ``` NIRISS - Near Infrared Imager and Slitless Spectrograph (NIRISS) ```
 
+![](https://www.asc-csa.gc.ca/images/recherche/hi-res/f03d998d-0748-40aa-8d11-65c9d7410f05.jpg)
+
 ---
 
 The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet.
