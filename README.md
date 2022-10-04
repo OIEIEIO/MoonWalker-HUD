@@ -97,6 +97,8 @@ Since gaming is part of youth these days - could easily be gamified as an experi
 
 #### The James Webb Space Telescope's Fine Guidance Sensor (FGS) and Near Infrared Imager and Slitless Spectrograph.
 
+![](https://www.asc-csa.gc.ca/images/recherche/tiles/18cc3f2a-2011-4320-a14f-cebe82600427.jpg)
+
 One of Canada's contributions to the James Webb Space Telescope.
 
 ``` FGS - The Fine Guidance Sensor (FGS) ```
