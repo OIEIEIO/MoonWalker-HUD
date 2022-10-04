@@ -46,9 +46,12 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 
 ``` NIRISS - Near Infrared Imager and Slitless Spectrograph (NIRISS) ```
 
+![](https://www.asc-csa.gc.ca/images/blogue/2022/2022-06-16-modes-observation-niriss-spectroscopie-eng.jpg)
+
+
 ![](https://jwst-docs.stsci.edu/files/97978930/97978933/1/1596073223011/NIS_DW_F158M_CLEAR_IMG_BLU.png)
 
-![](https://www.asc-csa.gc.ca/images/blogue/2022/2022-06-16-modes-observation-niriss-spectroscopie-eng.jpg)
+
 
 ![](https://www.asc-csa.gc.ca/images/recherche/hi-res/f03d998d-0748-40aa-8d11-65c9d7410f05.jpg)
 
