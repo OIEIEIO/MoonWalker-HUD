@@ -20,8 +20,6 @@ With the excitment of access to new opensource infromation (awesome) much of whi
 
 the idea : to inspire future space walkers with an AI (organized intelligence) assisted HUD (Heads Up Display) aka helmet visor overlay
 
-- a text and visual search tool for your helmet aka MW-HUD
-
 
 Take a glimpse at what the future holds for Space Walkers
 
@@ -46,6 +44,14 @@ A software addon to your HUD package. Runs on Jupyter notebook and can be used i
 - but it can not count galaxies yet ...smiles
 - and since gaming is part of youth these days - could easily be gamified as an experience to inspire and engage
 
+
+ex: MW-HUD up! mode, access CSA deep eye network, search for a exoplanet Keppler22b, show me where is, display images from NIRISS, filter select, search for water... "98%" chance of water at this site"
+===
+
+
+if you are going to be a space walker, you will likely need a helmet
+
+- a text and visual search tool for your helmet aka MW-HUD aka synthetic vision overlay
 ---
 The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet.
 
@@ -127,37 +133,18 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 
 ![](https://www.asc-csa.gc.ca/images/recherche/hi-res/f03d998d-0748-40aa-8d11-65c9d7410f05.jpg)
 
----
 
+### What will your idea change? 
 
+```MW-HUD up! mode, dream space```
 
+### Captivate your audience with what it could be? 
 
-MW-HUD is an AI learning interface
+```MW-HUD up! mode, plot course...```
 
-the idea : to inspire future space walkers with an AI assisted HUD
+### What can your solution do for people, the world, and beyond?
 
-if you are going to be a space walker, you will likely need a helmet
-
-
-
-
-
-
-
-ex: MW-HUD up! access CSA deep eye network, search for a exoplanet Keppler22b, show me where is, display images from NIRISS, filter select, search for water... "98%" chance of water at this site"
-
-
-
-
-
-What will your idea change? MW-HUD up! mode, dream space
-
-Captivate your audience with what it could be? mode, stop, access CSA deep eye, show current FGS target, name of galaxy, search NIRISS images for galaxy ? run image filter protocol omega_003, thank you
-
-What can your solution do for people, the world, and beyond? MW-HUD up! mode, dream space
-
-Team MoonWalker-HUD @oieieio @JustRaef
-
+```MW-HUD up! mode, dream space```
 
 if we had more time
 
