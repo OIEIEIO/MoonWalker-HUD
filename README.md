@@ -14,7 +14,7 @@ Efforts towards 2 challenges were made:
 
 --------------
 
-With the excitment of access to new opensource infromation (awesome) much of which is very complex and difficult to understand for most we try to put together some ideas and code that may help current and future space walkers to get inspired to earn and learn deeper understanding. The DATA is available now!
+With the excitment of access to new opensource infromation (awesome) much of which is very complex and difficult to understand for most, we try to put together some ideas and code that may help current and future space walkers get inspired to earn and learn deeper understanding. The DATA is available now!
 
 ``` standy for DATA links...working on it ```
 
