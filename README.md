@@ -35,11 +35,13 @@ The FGS remains active during all of Webb's observations. It provides Webb's sta
 
 The Canadian-made sensor is so sensitive that it can detect a tiny angular displacement equivalent to the thickness of a human hair as seen from one kilometre away. That's like spotting someone blink in Toronto, all the way from Montreal!
 
+---
+
 Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instruments are functionally independent of each other.
 
 ``` NIRISS - Near Infrared Imager and Slitless Spectrograph (NIRISS) ```
 
----------------------------------------------------------------------------
+---
 
 The event was a first time experience and puts you in direct contact with some of the most interesting people on and off planet.
 
