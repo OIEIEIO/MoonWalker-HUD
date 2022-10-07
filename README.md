@@ -78,7 +78,7 @@ has some serious traction when mates align and we begin to understand all the as
 
 special thanks for great insight and help from all and a few fun interactions
 
-Ottawa group Space Apps | Hamilton group space apps | CSA | NASA | Mentors | Leads | Judges | SMEeees
+Ottawa group SpaceApps | Hamilton group SpaceApps | CSA | NASA | Mentors | Leads | Judges | SMEeees
 
  # Thank you for a great weekend
 
