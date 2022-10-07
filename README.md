@@ -42,7 +42,6 @@ A software addon to your HUD package. Runs on Jupyter notebook and can be used i
 - atm also perform task using NLP functions to extract human readable subject matter content 
 - using qualified human readable subject matter search strings processed through filters usable to a future moonwalker
 - but it can not count galaxies yet ...smiles
-- and since gaming is part of youth these days - could easily be gamified as an experience to inspire and engage
 
 
 ex: MW-HUD up! mode, access CSA deep eye network, search for a exoplanet Keppler22b, show me where is, display images from NIRISS, filter select, search for water... "98%" chance of water at this site"
