@@ -160,3 +160,10 @@ https://drive.google.com/file/d/16rC33qmwjxeWdXys767rsysBfPFYdYBb/view?usp=shari
 update - the story does not end here - stay tuned on the repo if intreseted - it will start to share some amazing images 
 
 ```MW-HUD up! mode, share, run protocol @everyone```
+
+---
+```MW-HUD up! mode, quantum upgrade protocol...```
+---
+```AIM-HUD up! mode, show quantum resources```
+
+![](https://github.com/OIEIEIO/MoonWalker-HUD/raw/images/Images/quantum.png)
