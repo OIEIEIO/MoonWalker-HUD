@@ -14,7 +14,7 @@ Efforts towards 2 challenges were made:
 
 --------------
 
-With the excitment of access to new opensource infromation (awesome) much of which is very complex and difficult to understand for most we try to put together some ideas and code that may help current and future space walkers to get inspired to earn and learn deeper understanding. The DATA is available now!
+With the excitment of access to new opensource infromation (awesome) much of which is very complex and difficult to understand for most, we try to put together some ideas and code that may help current and future space walkers get inspired to earn and learn deeper understanding. The DATA is available now!
 
 ``` standy for DATA links...working on it ```
 
@@ -42,7 +42,6 @@ A software addon to your HUD package. Runs on Jupyter notebook and can be used i
 - atm also perform task using NLP functions to extract human readable subject matter content 
 - using qualified human readable subject matter search strings processed through filters usable to a future moonwalker
 - but it can not count galaxies yet ...smiles
-- and since gaming is part of youth these days - could easily be gamified as an experience to inspire and engage
 
 
 ex: MW-HUD up! mode, access CSA deep eye network, search for a exoplanet Keppler22b, show me where is, display images from NIRISS, filter select, search for water... "98%" chance of water at this site"
@@ -79,7 +78,7 @@ has some serious traction when mates align and we begin to understand all the as
 
 special thanks for great insight and help from all and a few fun interactions
 
-Ottawa group Space Apps | Hamilton group space apps | CSA | NASA | Mentors | Leads | Judges | SMEeees
+Ottawa group SpaceApps | Hamilton group SpaceApps | CSA | NASA | Mentors | Leads | Judges | SMEeees
 
  # Thank you for a great weekend
 
@@ -87,7 +86,7 @@ Team MoonWalker-HUD @oieieio @JustRaef
 
 ---
 
-IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD see below and would like to see this develop as an education tool, portal.
+IF there was more time during the challenge we may have been able to complete the code and have a fully functional MW-HUD software package and would like to see this develop as an education tool, portal.
 
 ! Education comes in many forms, and gaming is definitely one of the most popular and effective ways to learn these days. Let's see if we can come up with some ideas on how to gamify the MW-HUD interface to make it more engaging for users.
 
@@ -96,6 +95,8 @@ Since gaming is part of youth these days - could easily be gamified as an experi
 ---
 
 #### The James Webb Space Telescope's Fine Guidance Sensor (FGS) and Near Infrared Imager and Slitless Spectrograph.
+
+![](https://www.asc-csa.gc.ca/images/recherche/tiles/18cc3f2a-2011-4320-a14f-cebe82600427.jpg)
 
 One of Canada's contributions to the James Webb Space Telescope.
 
@@ -133,6 +134,8 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 
 ![](https://www.asc-csa.gc.ca/images/recherche/hi-res/f03d998d-0748-40aa-8d11-65c9d7410f05.jpg)
 
+---
+
 
 ### What will your idea change? 
 
@@ -146,10 +149,14 @@ Although NIRISS is packaged with the Fine Guidance Sensor (FGS), the 2 instrumen
 
 ```MW-HUD up! mode, dream space```
 
+---
+
 if we had more time
 
 fun, great, and special attempts were performed to create a video for the challenge presentaion given our short time
 
 https://drive.google.com/file/d/16rC33qmwjxeWdXys767rsysBfPFYdYBb/view?usp=sharing
 
-update - the story does not end here - stay tuned on the repo if intreseted - it will start to share some amazing images MW-HUD up!
+update - the story does not end here - stay tuned on the repo if intreseted - it will start to share some amazing images 
+
+```MW-HUD up! mode, share, run protocol @everyone```
